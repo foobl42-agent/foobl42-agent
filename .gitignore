@@ -1,2 +1,7 @@
 .claude/settings.local.json
+<<<<<<< Updated upstream
+||||||| Stash base
+=======
+.DS_Store
+>>>>>>> Stashed changes
 .envrc
